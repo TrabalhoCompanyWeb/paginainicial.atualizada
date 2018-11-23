@@ -1,0 +1,43 @@
+body
+{
+    font-family: Arial;
+    font-size: 12px;
+}
+.slider .slides li .caption{
+	top: 40%;
+    color:#FFFFFF;
+    text-shadow: 1px 1px 5px #000000;
+}
+
+.textslider{
+    color: #FFFFFF;
+}
+.slider .indicators .indicator-item.active
+{
+    background-color: dimgrey;
+}
+
+.espacamentoSuperior{
+    margin-top: 95vh;
+}
+
+.btn, .btn-large{
+    background-color: #c2185b;
+}
+
+.equipe{
+    padding-bottom: 25px;
+}
+.chip-custom{
+    display:block;
+    margin:5px;
+}
+.equipe.servico.localizacao, .contato, .rodape{
+    opacity:;
+}
+.page-footer{
+    background-color: #000000 ;
+}
+.nav-wrapper{
+    background-color: #000000 ;
+}
